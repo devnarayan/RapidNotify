@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RapidNotify.CustomControl;assembly=RapidNotify"
+             x:Class="RapidNotify.Views.WelcomePage">
+    <ScrollView>
+        <StackLayout Padding="10">
+            <Image Source="welcomelogo.png" HeightRequest="150" Margin="0,30,0,0"  HorizontalOptions="Center"></Image>
+            <Label Text="Welcome" TextColor="Maroon" HorizontalTextAlignment="Center" FontSize="40"/>
+            <Label Margin="0,20,0,0" Text="Please enter the email address you used during to Registration Process." HorizontalTextAlignment="Center"/>
+            <Entry HorizontalOptions="Center" Margin="10,30,10,10" Placeholder="Email" FontSize="18"
+                   PlaceholderColor="Gray" WidthRequest="250" HeightRequest="40"></Entry>
+            <!--<local:MyEntry Text="In Shared Code" />-->
+            <Button x:Name="btnRegister" Text="Register Device" Margin="10" Clicked="btnRegister_Clicked" BorderRadius="20" HeightRequest="40" WidthRequest="250" BackgroundColor="Maroon" TextColor="White" HorizontalOptions="Center" Command="{Binding IncreaseCountCommand}"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

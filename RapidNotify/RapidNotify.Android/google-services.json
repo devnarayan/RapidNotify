@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "65149015302",
+    "firebase_url": "https://rapidnotify-43bd6.firebaseio.com",
+    "project_id": "rapidnotify-43bd6",
+    "storage_bucket": "rapidnotify-43bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65149015302:android:6903285b889fe9fb",
+        "android_client_info": {
+          "package_name": "com.gigaparse.RapidNotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65149015302-h5ds4k4lfgvn281fldn3rb6oqhn9eqtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuFa9P3IGnlZAmtcr-lVGJAbbfhKfTCOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
