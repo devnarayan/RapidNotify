@@ -1,0 +1,22 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\Upload\split.pri"			"resources.pri"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml"			"Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml"			"Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\welcomelogo.png"			"welcomelogo.png"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\slideout.png"			"slideout.png"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\RapidNotify.UWP.xr.xml"			"RapidNotify.UWP.xr.xml"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\Properties\Default.rd.xml"			"Properties\Default.rd.xml"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\profile_generic.png"			"profile_generic.png"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\lionlogo.png"			"lionlogo.png"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Release\PackageUploadLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"

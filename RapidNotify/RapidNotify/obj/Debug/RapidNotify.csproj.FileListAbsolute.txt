@@ -19,12 +19,3 @@ E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.Views.ThanksPage.xaml.g.cs
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.Views.NotificationPage.xaml.g.cs
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.Views.RespondPage.xaml.g.cs
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.csprojResolveAssemblyReference.cache
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.dll.mdb
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Debug\RapidNotify.dll.mdb
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.dll.mdb
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Debug\RapidNotify.dll.mdb
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.dll.mdb
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Debug\RapidNotify.dll.mdb
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.dll.mdb
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Debug\RapidNotify.dll.mdb

@@ -1,0 +1,2 @@
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\RapidNotify.UWP.csproj;x86
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\RapidNotify.csproj;neutral

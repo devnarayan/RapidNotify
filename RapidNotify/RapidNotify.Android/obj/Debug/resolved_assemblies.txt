@@ -62,5 +62,6 @@ E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.Android\o
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.Android\obj\Debug\android\assets\Mono.CSharp.dll
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.Android\obj\Debug\android\assets\Mono.Security.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll

@@ -1,0 +1,2 @@
+MainPackage=E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\bin\x64\Release\RapidNotify.UWP_1.1.2.0_x64.appx
+SymbolPackage=E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\AppPackages\RapidNotify.UWP_1.1.2.0_Test\RapidNotify.UWP_1.1.2.0_x64.appxsym
