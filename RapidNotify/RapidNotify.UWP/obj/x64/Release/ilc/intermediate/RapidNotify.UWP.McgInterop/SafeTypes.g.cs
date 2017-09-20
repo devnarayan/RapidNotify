@@ -3327,6 +3327,15 @@ namespace Windows.Networking.PushNotifications
 	[global::Internal.Reflection.ExplicitScope("Windows, Version=255.255.255.255, Culture=neutral, PublicKeyToken=null, ContentType=WindowsRuntime")]
 	public unsafe sealed class PushNotificationChannel : global::System.__ComObject, global::Windows.Networking.PushNotifications.IPushNotificationChannel
 	{
+		[global::System.Runtime.InteropServices.McgGeneratedMarshallingCode]
+		[global::System.Runtime.InteropServices.McgAccessor(global::System.Runtime.InteropServices.McgAccessorKind.PropertyGet, "Uri")]
+		public string get_Uri()
+		{
+			string __retVal = global::Windows.Networking.PushNotifications.IPushNotificationChannel__Impl.StubClass.get_Uri(this);
+			global::System.Runtime.InteropServices.DebugAnnotations.PreviousCallContainsUserCode();
+			return __retVal;
+		}
+
 		public PushNotificationChannel(global::System.IntPtr dummy)
 		{
 		}
@@ -3367,6 +3376,9 @@ namespace Windows.Networking.PushNotifications
 	[global::Internal.Reflection.ExplicitScope("Windows, Version=255.255.255.255, Culture=neutral, PublicKeyToken=null, ContentType=WindowsRuntime")]
 	public unsafe interface IPushNotificationChannel
 	{
+		[global::System.Runtime.InteropServices.McgGeneratedMarshallingCode]
+		[global::System.Runtime.InteropServices.McgAccessor(global::System.Runtime.InteropServices.McgAccessorKind.PropertyGet, "Uri")]
+		string get_Uri();
 	}
 
 	[global::Internal.Reflection.MetadataTransformed(global::Internal.Reflection.MetadataTransformation.OriginallyForeignObject)]

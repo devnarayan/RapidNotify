@@ -1,14 +1,15 @@
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\RapidNotify.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\RapidNotify.pdb
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\Newtonsoft.Json.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\Xamarin.Forms.Core.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\Xamarin.Forms.Platform.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\Xamarin.Forms.Xaml.dll
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\Newtonsoft.Json.xml
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\Xamarin.Forms.Core.pdb
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\Xamarin.Forms.Core.xml
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\Xamarin.Forms.Platform.pdb
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\Xamarin.Forms.Xaml.pdb
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Release\Xamarin.Forms.Xaml.xml
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Release\RapidNotify.csprojResolveAssemblyReference.cache
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Release\RapidNotify.App.xaml.g.cs
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Release\RapidNotify.Views.AboutPage.xaml.g.cs
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Release\RapidNotify.Views.ItemDetailPage.xaml.g.cs

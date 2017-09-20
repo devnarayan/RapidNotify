@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json.Linq;
+using RapidNotify.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -92,6 +93,11 @@ namespace RapidNotify.UWP
          {"body", templateBodyWNS},
          {"headers", headers} // Needed for WNS.
      };
+
+            var notificationUrl = channel.Uri.ToString();
+
+            RapidNotify.App.DeviceToken = notificationUrl;
+            RapidNotify.App.DeviceType = TokenType.Windows;
 
             //await TodoItemManager.DefaultManager.CurrentClient.GetPush()
             //    .RegisterAsync(channel.Uri, templates);

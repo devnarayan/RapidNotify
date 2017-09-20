@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x64</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
-    <PackageIdentityName>babe6c65-04de-4beb-8197-6f99fc268cbc</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Namrata</PackageIdentityPublisher>
+    <PackageIdentityName>c6ed280f-908c-405b-8afb-35e97782fdc0</PackageIdentityName>
+    <PackageIdentityPublisher>CN=EEF31469-B7B2-48B9-8A8D-D7B8121ED1FF</PackageIdentityPublisher>
     <IntermediateOutputPath>E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>

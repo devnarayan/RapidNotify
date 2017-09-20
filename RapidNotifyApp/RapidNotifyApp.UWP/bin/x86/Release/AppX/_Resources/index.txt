@@ -1,0 +1,3 @@
+RapidNotifyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  RapidNotifyApp.MainPage.xaml
+  RapidNotifyApp.App.xaml

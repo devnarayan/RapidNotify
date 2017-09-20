@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RapidNotifyApp.Views.ThanksPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="10">
+                <Image Source="lionlogo.png" HeightRequest="100" Margin="0,30,0,0"  HorizontalOptions="Center"></Image>
+                <Label Text="Thanks" TextColor="Maroon" HorizontalTextAlignment="Center" FontSize="40"/>
+                <Label Margin="20,20,20,0" Text="Your device has now been enrolled to receive notification from Penn State University. When an emergency occurs, direction wil apper on device here. Please follow the instruction provided. This is not real text, so please don't think it is final!"/>
+                <Label Margin="20,20,20,0" Text="How does this  work?" FontSize="18" FontAttributes="Bold"></Label>
+                <Label Margin="20,20,20,0" Text="Your device has now been enrolled to receive notification from Penn State University. When an emergency occurs, direction wil apper on device here. Please follow the instruction provided. This is not real text, so please don't think it is final!"/>
+                <Button x:Name="btnHome" Text="Home" Margin="10" Clicked="btnHome_Clicked" BorderRadius="20" HeightRequest="40" WidthRequest="250" BackgroundColor="Maroon" TextColor="White" HorizontalOptions="Center" Command="{Binding IncreaseCountCommand}"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

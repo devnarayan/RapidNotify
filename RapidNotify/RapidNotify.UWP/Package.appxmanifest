@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="GIGAPARSETECHNOLOGIESLLC.RapidNotify" Publisher="CN=EEF31469-B7B2-48B9-8A8D-D7B8121ED1FF" Version="1.1.2.0" />
+  <Identity Name="GIGAPARSETECHNOLOGIESLLC.RapidNotify" Publisher="CN=EEF31469-B7B2-48B9-8A8D-D7B8121ED1FF" Version="1.1.3.0" />
   <mp:PhoneIdentity PhoneProductId="c6ed280f-908c-405b-8afb-35e97782fdc0" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>RapidNotify</DisplayName>

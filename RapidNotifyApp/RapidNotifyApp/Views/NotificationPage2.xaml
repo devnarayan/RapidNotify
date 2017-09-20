@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RapidNotifyApp.Views.NotificationPage"
+             Title="Notification">
+  <ScrollView>
+    <StackLayout Padding="10">
+            <Image Source="lionlogo.png" HeightRequest="100" Margin="0,30,0,0"  HorizontalOptions="Center"></Image>
+            <Label Text="Notifications" TextColor="Maroon" HorizontalTextAlignment="Center" FontSize="40"/>
+            <Label Margin="0,20,0,0" Text="There are Currently no active notifications." HorizontalOptions="Center"/>
+            <Button x:Name="btnNotification" Text="Notification History" Margin="0,30,0,0" Clicked="btnNotification_Clicked" BorderRadius="20" HeightRequest="40" WidthRequest="250" BackgroundColor="Maroon" TextColor="White" HorizontalOptions="Center" Command="{Binding IncreaseCountCommand}"/>
+            <Button x:Name="btnDisconect" Text="Disconnect Device" Margin="0,15,0,0" Clicked="btnDisconect_Clicked" BorderRadius="20" HeightRequest="40" WidthRequest="250" BackgroundColor="Black" TextColor="White" HorizontalOptions="Center" Command="{Binding IncreaseCountCommand}"/>
+        </StackLayout>
+  </ScrollView>
+</ContentPage>

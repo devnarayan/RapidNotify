@@ -228,3 +228,4 @@ E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Debug\FxResources.System.ComponentModel.TypeConverter.SR.resw
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Formatters.SR.resw
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\bin\x86\Debug\Core\ForBundle\AppxManifest.xml

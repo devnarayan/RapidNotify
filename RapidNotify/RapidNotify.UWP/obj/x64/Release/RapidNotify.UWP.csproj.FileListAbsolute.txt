@@ -34,7 +34,6 @@ E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\bin\x
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\bin\x64\Release\ilc\welcomelogo.png
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\bin\x64\Release\ilc\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\bin\x64\Release\RapidNotify.UWP.build.appxrecipe
-E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\bin\x64\Release\Upload\RapidNotify.UWP.build.appxrecipe
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\bin\x64\Release\Microsoft.CSharp.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\bin\x64\Release\System.ComponentModel.DataAnnotations.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\bin\x64\Release\System.Core.dll
@@ -450,3 +449,4 @@ E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x64\Release\ilc\intermediate\SgGenerated\System.Runtime.Serialization.Generated.pdb
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x64\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x64\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify.UWP\obj\x64\Release\RapidNotify.UWP.csprojResolveAssemblyReference.cache

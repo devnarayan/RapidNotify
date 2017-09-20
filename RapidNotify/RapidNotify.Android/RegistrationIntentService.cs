@@ -3,6 +3,7 @@ using Android.App;
 using Android.Content;
 using Android.Util;
 using Firebase.Iid;
+using RapidNotify.Models;
 
 namespace RapidNotify.Droid
 {
@@ -53,7 +54,8 @@ namespace RapidNotify.Droid
         void SendRegistrationToServer(string token)
         {
             // Add custom implementation, as needed.
-            //App.DeviceToken = token;
+            App.DeviceToken = token;
+            App.DeviceType = TokenType.Android;
         }
 
         void SendRegistrationToAppServer(string token)

@@ -19,3 +19,6 @@ E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.Views.ThanksPage.xaml.g.cs
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.Views.NotificationPage.xaml.g.cs
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.Views.RespondPage.xaml.g.cs
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Debug\Newtonsoft.Json.dll
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\bin\Debug\Newtonsoft.Json.xml
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotify\RapidNotify\obj\Debug\RapidNotify.csprojResolveAssemblyReference.cache

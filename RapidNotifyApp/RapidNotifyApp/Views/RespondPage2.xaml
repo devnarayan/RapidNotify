@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RapidNotifyApp.Views.RespondPage"
+             Title="RespondPage">
+  <ScrollView>
+    <StackLayout Padding="10">
+            <Image Source="lionlogo.png" HeightRequest="100" Margin="0,30,0,0"  HorizontalOptions="Center"></Image>
+            <Label Text="Notification Response" TextColor="Maroon" HorizontalTextAlignment="Center" FontSize="40"/>
+            <Label Text="1. What would you like to question to be?" TextColor="Maroon" Margin="10,20,0,0"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+               
+            </Grid>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

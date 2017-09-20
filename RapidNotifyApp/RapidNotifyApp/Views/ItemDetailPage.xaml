@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RapidNotifyApp.Views.ItemDetailPage" Title="{Binding Title}">
+    <ContentPage.Content>
+        <StackLayout Spacing="20" Padding="15">
+            <Image Source="lionlogo.png" HeightRequest="100" Margin="0,30,0,0"  HorizontalOptions="Center"></Image>
+            <Label Text="{Binding Item.NotifycationDate}" TextColor="Maroon" HorizontalTextAlignment="Center" FontSize="40"/>
+            <Label Text="Notification History" HorizontalTextAlignment="Center" FontSize="30"/>
+
+            <Label Text="{Binding Item.Description}" FontSize="Small"/>
+            <Button x:Name="btnRespond" Text="Respond to this notification" Margin="10" Clicked="btnRespond_Clicked" BorderRadius="20" HeightRequest="40" WidthRequest="250" BackgroundColor="Maroon" TextColor="White" HorizontalOptions="Center" Command="{Binding IncreaseCountCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

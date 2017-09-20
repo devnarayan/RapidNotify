@@ -69,7 +69,7 @@ namespace RapidNotify.Droid
         //    App.access_token_ = MiSERV_App.Helpers.Settings.GSettingsAccessToken;
         //    return "0";
         //}
-        async void SendRegistrationToServer(string token)
+        void SendRegistrationToServer(string token)
         {
             try
             {

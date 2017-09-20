@@ -1,4 +1,5 @@
-﻿using RapidNotify.Views;
+﻿using RapidNotify.Models;
+using RapidNotify.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -8,10 +9,10 @@ namespace RapidNotify
     public partial class App : Application
     {
         public static string DeviceToken;
+        public static TokenType DeviceType;
         public App()
         {
             InitializeComponent();
-
             SetMainPage();
         }
 

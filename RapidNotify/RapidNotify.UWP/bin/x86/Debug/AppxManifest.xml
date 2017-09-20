@@ -7,11 +7,11 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="babe6c65-04de-4beb-8197-6f99fc268cbc" Publisher="CN=Namrata" Version="1.0.0.0" ProcessorArchitecture="x86" />
-  <mp:PhoneIdentity PhoneProductId="babe6c65-04de-4beb-8197-6f99fc268cbc" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="GIGAPARSETECHNOLOGIESLLC.RapidNotify" Publisher="CN=EEF31469-B7B2-48B9-8A8D-D7B8121ED1FF" Version="1.1.3.0" ProcessorArchitecture="x86" />
+  <mp:PhoneIdentity PhoneProductId="c6ed280f-908c-405b-8afb-35e97782fdc0" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>RapidNotify.UWP</DisplayName>
-    <PublisherDisplayName>Namrata</PublisherDisplayName>
+    <DisplayName>RapidNotify</DisplayName>
+    <PublisherDisplayName>GIGAPARSE TECHNOLOGIES LLC</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -23,7 +23,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="RapidNotify.UWP.exe" EntryPoint="RapidNotify.UWP.App">
-      <uap:VisualElements DisplayName="RapidNotify.UWP" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="RapidNotify.UWP" BackgroundColor="transparent">
+      <uap:VisualElements DisplayName="RapidNotify" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="RapidNotify.UWP" BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"></uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
       </uap:VisualElements>
@@ -31,6 +31,7 @@
   </Applications>
   <Capabilities>
     <Capability Name="internetClient" />
+    <Capability Name="internetClientServer" />
   </Capabilities>
   <build:Metadata>
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v5.0" />

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.gigaparse.RapidNotify" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+  <permission android:name="com.gigaparse.RapidNotify.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+  <uses-permission android:name="com.gigaparse.RapidNotify.permission.C2D_MESSAGE" />
+  <application android:label="Rapid Notify" android:icon="@drawable/lionlogo" android:name="android.app.Application" android:allowBackup="true">
+    <!-- START Manual Firebase Additions -->
+    <receiver android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver" android:exported="false" />
+    <receiver android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:exported="true" android:permission="com.google.android.c2dm.permission.SEND">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+        <category android:name="com.gigaparse.RapidNotify" />
+      </intent-filter>
+    </receiver>
+    <!-- END Manual Firebase Additions -->
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <activity android:configChanges="orientation|screenSize" android:label="Rapid Notify" android:theme="@style/MyTheme" android:name="md536c21a51a360b073cd760c657231a3f9.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <service android:name="md536c21a51a360b073cd760c657231a3f9.MyFirebaseIIDService">
+      <intent-filter>
+        <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+      </intent-filter>
+    </service>
+    <service android:name="md536c21a51a360b073cd760c657231a3f9.MyFirebaseMessagingService">
+      <intent-filter>
+        <action android:name="com.google.firebase.MESSAGING_EVENT" />
+      </intent-filter>
+    </service>
+    <service android:exported="false" android:name="md536c21a51a360b073cd760c657231a3f9.RegistrationIntentService" />
+    <provider android:authorities="com.gigaparse.RapidNotify.firebaseinitprovider" android:exported="true" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider" />
+    <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
+      <intent-filter android:priority="-500">
+        <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+      </intent-filter>
+    </service>
+    <service android:exported="true" android:name="com.google.firebase.messaging.FirebaseMessagingService">
+      <intent-filter android:priority="-500">
+        <action android:name="com.google.firebase.MESSAGING_EVENT" />
+      </intent-filter>
+    </service>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.gigaparse.RapidNotify.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

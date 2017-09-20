@@ -3383,57 +3383,57 @@ namespace McgInterop
 					global::System.IntPtr a0, 
 					global::Windows.Web.Http.HttpStatusCode* a1);
 
-		public delegate int AddrOfTarget359(
-					global::System.IntPtr a0, 
-					uint* a1, 
-					global::System.DateTimeOffset__Impl.UnsafeType** a2);
+		public delegate void AddrOfTarget359(
+					global::System.__ComObject a0, 
+					global::Windows.Foundation.IAsyncOperation<global::System.Collections.Generic.IReadOnlyList<global::Windows.Security.Cryptography.Certificates.Certificate>> a1, 
+					global::Windows.Foundation.AsyncStatus a2);
 
 		public delegate int AddrOfTarget360(
 					global::System.IntPtr a0, 
 					uint* a1, 
-					global::System.TimeSpan** a2);
+					global::System.DateTimeOffset__Impl.UnsafeType** a2);
 
 		public delegate int AddrOfTarget361(
+					global::System.IntPtr a0, 
+					uint* a1, 
+					global::System.TimeSpan** a2);
+
+		public delegate int AddrOfTarget362(
 					global::System.IntPtr a0, 
 					uint a1, 
 					global::System.Runtime.InteropServices.__vtable_IInspectable** a2);
 
-		public delegate int AddrOfTarget362(
+		public delegate int AddrOfTarget363(
 					global::System.IntPtr a0, 
 					global::System.Collections.Generic.IReadOnlyList_A_System_Uri_V___Impl.Vtbl*** a1);
 
-		public delegate int AddrOfTarget363(
+		public delegate int AddrOfTarget364(
 					global::System.IntPtr a0, 
 					global::System.Runtime.InteropServices.__vtable_IInspectable* a1, 
 					uint* a2, 
 					sbyte* a3);
 
-		public delegate int AddrOfTarget364(
+		public delegate int AddrOfTarget365(
 					global::System.IntPtr a0, 
 					uint a1, 
 					global::System.Runtime.InteropServices.__vtable_IInspectable* a2);
 
-		public delegate int AddrOfTarget365(
+		public delegate int AddrOfTarget366(
 					global::System.IntPtr a0, 
 					global::System.Runtime.InteropServices.__vtable_IInspectable* a1);
 
-		public delegate int AddrOfTarget366(
+		public delegate int AddrOfTarget367(
 					global::System.IntPtr a0, 
 					uint a1, 
 					uint a2, 
 					global::System.Runtime.InteropServices.__vtable_IInspectable** a3, 
 					uint* a4);
 
-		public delegate int AddrOfTarget367(
+		public delegate int AddrOfTarget368(
 					global::System.IntPtr a0, 
 					uint a1, 
 					global::System.Runtime.InteropServices.__vtable_IInspectable** a2, 
 					uint* a3);
-
-		public delegate void AddrOfTarget368(
-					global::System.__ComObject a0, 
-					global::Windows.Foundation.IAsyncOperation<global::System.Collections.Generic.IReadOnlyList<global::Windows.Security.Cryptography.Certificates.Certificate>> a1, 
-					global::Windows.Foundation.AsyncStatus a2);
 
 		public delegate int AddrOfTarget369(
 					global::System.IntPtr a0, 

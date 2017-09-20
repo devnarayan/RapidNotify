@@ -16,5 +16,5 @@ XamarinAndroidVersion=7.3.1-2
 MonoSymbolArchive=True
 AndroidUseLatestPlatformSdk=true
 TargetFrameworkVersion=v6.0
-AndroidCreatePackagePerAbi=
+AndroidCreatePackagePerAbi=true
 OS=Windows_NT
