@@ -20,3 +20,4 @@ E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp\bin
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp\bin\Release\Xamarin.Forms.Xaml.xml
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp\obj\Release\RapidNotifyApp.dll
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp\obj\Release\RapidNotifyApp.pdb
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp\obj\Release\RapidNotifyApp.csprojResolveAssemblyReference.cache

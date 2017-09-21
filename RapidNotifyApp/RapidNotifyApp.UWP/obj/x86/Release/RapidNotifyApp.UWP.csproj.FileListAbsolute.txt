@@ -450,6 +450,8 @@ E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp.UWP
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp.UWP\obj\x86\Release\ilc\intermediate\PreInitStructs.cs
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\.ILTransformTask.repro
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\ComputedSerializationInput.txt
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\RapidNotifyApp.dll
+E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\RapidNotifyApp.pdb
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\RapidNotifyApp.UWP.exe
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\RapidNotifyApp.UWP.pdb
 E:\1. Working Projects\RapidNotify\RapidNotify\RapidNotifyApp\RapidNotifyApp.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Xamarin.Forms.Core.dll

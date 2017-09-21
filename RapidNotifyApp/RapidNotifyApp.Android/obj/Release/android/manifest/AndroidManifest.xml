@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="preferExternal" android:versionCode="1" android:versionName="1.0" package="RapidNotifyApp.Android">
+  <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <application android:label="RapidNotifyApp.Droid" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="RapidNotifyApp" android:theme="@style/MainTheme" android:name="md5c94a51aca5b112b7d9b9df3807423e7e.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="RapidNotifyApp.Android.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>
